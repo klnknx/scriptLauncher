@@ -1,0 +1,7 @@
+services:
+  web:
+    build: Dockerfile
+    volumes:
+      - .:/var/www/html
+    ports:
+      - "8080:80"
