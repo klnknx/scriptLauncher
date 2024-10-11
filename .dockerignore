@@ -1,5 +1,5 @@
-/.idea
-/Dockerfile
+.idea
+Dockerfile
 .gitignore
 .dockerignore
 README.md
