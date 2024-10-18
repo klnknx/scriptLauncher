@@ -1,5 +1,4 @@
 <?php
-echo "Hello World!";
 /*
  * Converts a filesystem tree to a PHP array.
  */
